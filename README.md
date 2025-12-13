@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:090979&height=180&section=header&text=Dereck%20Gabriel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -11,14 +10,10 @@
   Criando soluções modernas com foco em performance, organização e aprendizado contínuo.
 </p>
 
----
-
-<!-- Linha animada estilo fluxo -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,100:00D4FF&height=8&section=header" width="80%" />
 </p>
 
----
 
 ## 👨‍💻 Sobre mim
 
@@ -27,22 +22,16 @@ Tenho foco em **Go**, desenvolvimento web e automações que tornam processos ma
 
 🎯 **Objetivo:** evoluir constantemente como desenvolvedor e construir soluções reais e úteis.
 
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,html,css,js,git,github,vscode,linux,mysql,postgres" />
 </p>
 
----
-
-<!-- Separador elegante -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:090979&height=6" width="60%" />
 </p>
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -54,18 +43,12 @@ Tenho foco em **Go**, desenvolvimento web e automações que tornam processos ma
 
 </div>
 
----
 
 ## 🛠️ Projetos em Destaque
 
 - 🔹 Automação em Go para tarefas repetitivas  
 - 🔹 Sistema Web com Go + HTML + CSS + JavaScript  
-- 🔹 API REST em Go  
-- 🔹 Scripts e bots para produtividade  
 
-> *Se quiser, posso transformar isso em cards com links depois.*
-
----
 
 ## 📚 Atualmente estudando
 
@@ -74,7 +57,6 @@ Tenho foco em **Go**, desenvolvimento web e automações que tornam processos ma
 - Desenvolvimento web moderno  
 - Automação e integração de sistemas  
 
----
 
 ## 📬 Contato
 
