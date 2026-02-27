@@ -1,80 +1,85 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:090979&height=180&section=header&text=Dereck%20Gabriel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dereck%20Gabriel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
-  Desenvolvedor em Formação • Backend • Web • Automação
+🚀 Backend Developer em Formação | Go • Web • Automação
 </h3>
 
 <p align="center">
-  Criando soluções modernas com foco em performance, organização e aprendizado contínuo.
+Construindo soluções eficientes, organizadas e escaláveis com foco em performance e boas práticas.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,100:00D4FF&height=8&section=header" width="80%" />
-</p>
-
-
-## 👨‍💻 Sobre mim
-
-Sou **Dereck Gabriel**, técnico em informática e desenvolvedor em formação, apaixonado por tecnologia e programação.  
-Tenho foco em **Go**, desenvolvimento web e automações que tornam processos mais simples e eficientes.
-
-🎯 **Objetivo:** evoluir constantemente como desenvolvedor e construir soluções reais e úteis.
-
-## 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,html,css,js,git,github,vscode,linux,mysql,postgres" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:090979&height=6" width="60%" />
-</p>
-
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dereckgab&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dereckgab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-## 🛠️ Projetos em Destaque
-
-- 🔹 Automação em Go para tarefas repetitivas  
-- 🔹 Sistema Web com Go + HTML + CSS + JavaScript  
-
-
-## 📚 Atualmente estudando
-
-- Go (concorrência, APIs e boas práticas)  
-- Banco de dados SQL  
-- Desenvolvimento web moderno  
-- Automação e integração de sistemas  
-
-
-## 📬 Contato
-
-<p align="left">
   <a href="https://www.linkedin.com/in/dereck-gabriel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_dereck_gabriel?igsh=MThiaTB0Y2dxNmswMQ%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="gabrieldereck0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gabrieldereck0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- Rodapé -->
+## 👨‍💻 Sobre Mim
+
+Sou **Técnico em Informática** e desenvolvedor em formação com foco em **Backend com Go**.
+
+Tenho forte interesse em:
+- 🔹 Desenvolvimento de APIs
+- 🔹 Automação de processos
+- 🔹 Sistemas web performáticos
+- 🔹 Estruturação e organização de código
+
+Busco minha primeira oportunidade como **Programador Júnior**, onde possa aplicar meus conhecimentos e evoluir profissionalmente.
+
+---
+
+## 🛠️ Stack Principal
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00D4FF&height=120&section=footer" />
+  <img src="https://skillicons.dev/icons?i=go,html,css,js,git,github,vscode,linux,mysql,postgres" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dereckgab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dereckgab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+
+---
+
+## 🚀 Projetos em Desenvolvimento
+
+🔹 **Automação em Go**  
+Sistema automatizado para otimizar tarefas repetitivas e aumentar produtividade.
+
+🔹 **Sistema Web Full Stack**  
+Backend em Go + Frontend com HTML, CSS e JavaScript.
+
+🔹 **Projetos de estudo focados em APIs e Banco de Dados**
+
+---
+
+## 📚 Atualmente Estudando
+
+- 🔹 Concorrência em Go  
+- 🔹 Estruturação de APIs REST  
+- 🔹 Boas práticas de arquitetura  
+- 🔹 Banco de dados SQL  
+- 🔹 Clean Code  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Desenvolver sistemas reais, escaláveis e eficientes, contribuindo com equipes técnicas e evoluindo constantemente como desenvolvedor backend.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
 </p>
