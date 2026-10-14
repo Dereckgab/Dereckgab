@@ -11,7 +11,7 @@
 
 ---
 
-Técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas (Unipar). Trabalho com backend em **Go** e frontend em **React + TypeScript**, com atenção a código organizado, testes e documentação.
+Técnico em Analise desenvolvimento de sistemas e estudante de Engenharia de Software (Unipar). Trabalho com backend em **Go** e frontend em **React + TypeScript**, com atenção a código organizado, testes e documentação.
 
 Procurando minha primeira oportunidade como **desenvolvedor júnior**.
 
